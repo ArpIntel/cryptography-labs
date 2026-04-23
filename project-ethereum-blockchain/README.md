@@ -1,5 +1,5 @@
 Ethereum Private Blockchain  Cryptography Implementation Project
-Subject: Cryptography (42000) UTS 
+Subject: Cryptography  UTS 
 Team: Arpitha Srinivasa Murthy & Khelan Prashantbhai Desai 
 Tools Used: Geth (Go Ethereum), Genesis.json, Ethereum Console, Linux CLI Topics: Blockchain, ECDSA, Cryptographic Hashing, Digital Signatures, Consensus, Mining
 
