@@ -1,5 +1,5 @@
 Block Cipher Operations
-Subject: Cryptography (42000)  UTS
+Subject: Cryptography   UTS
 Tools Used: OpenSSL, Bless (Hex Editor), Linux CLI
 Topics: Cipher Modes, ECB vs CBC, Padding, IV Analysis, Error Propagation
 
